@@ -12,56 +12,7 @@ Engines Interfaced with LITESOPH
 `NWChem <https://nwchemgit.github.io/>`_   (version 7.0.0 or later)
   `Installation Instruction <https://nwchemgit.github.io/Download.html>`_
 
-Requirements
-============
 
-  * Python 3.7.6 or later
-  * Tkinter
-  * click
-  * Numpy
-  * Matplotlib
-  * Paramiko
-  * scp
-  * Rsync
-
-Installation
-=============================================================================================================
-
-.. code-block:: console
-
-  $ git clone -b main https://github.com/LITESOPH/litesoph.git
-  $ pip install <path-to-litesoph>
-
-
-Configuration
-=============================================================================================================
-To create lsconfig file:
-  .. code-block:: console
-
-    $ litesoph config -c
-  
-To edit lsconfig file:
-  .. code-block:: console
-
-    $ litesoph config -e
-
-Example lsconfig file
-=========
-
-.. code-block:: console
-
-  [path]
-  lsproject = <litesoph project path>
-  lsroot = <installation path of litesoph>
-
- 
-
-Usage
-===========================================================================================================
-
-To start gui application, run:
-
-.. code-block:: console
 
   $ litesoph gui
 
