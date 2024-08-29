@@ -10,8 +10,6 @@ Engines Interfaced with LITESOPH
   `Installation Instruction <https://octopus-code.org/wiki/Manual:Installation>`_
 
 `NWChem <https://nwchemgit.github.io/>`_   (version 7.0.0 or later)
-  `Installation Instruction <https://nwchemgit.github.io/Download.html>`_
-
-
+  `Installation Instruction <https://nwchemgit.github.io/Download.html>`
 
 
